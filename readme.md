@@ -1,7 +1,7 @@
 # Simple `tkinter` weather tracker
 ## How to use:
 ```commandline
-git clone https://github.com/atharv4git/simple-weather-tracker-tkinter.git
+git clone https://github.com/pahlie/weather-tracker-app-in-python-tkinter.git
 cd simple-weather-tracker-tkinter
 ```
 ```commandline
